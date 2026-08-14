@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hardwork-beep.github.io/service-follow-up-kit/sitemap.xml
